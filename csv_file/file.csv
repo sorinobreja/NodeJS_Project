@@ -1,0 +1,6 @@
+ID, FamilyName, GivenName, FacilityId, SystemId, NameId, Active
+1, Popescu, George, 12, http://ro.gov/NPI, Spital Tulcea, true
+1, Popescu, George, 13, http://ro.gov/NPI, Spital Sfantu Gheorghe, true
+1, Popescu, George, 13, http://ro.gov/NPI, Spital Constanta, false
+2, Ionescu, Catalin, 12, http://ro.gov/NPI, Spital Tulcea, true
+
